@@ -1,4 +1,4 @@
-#Compbiz Computer Business Management Software
+#Compbiz Job Manager
 
 ##
 
